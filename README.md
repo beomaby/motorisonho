@@ -1,4 +1,5 @@
-[inicio.html](https://github.com/user-attachments/files/26661989/inicio.html)[Uploading inicio.ht<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/26662013/index.html)
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -39,4 +40,4 @@
 </nav>
      </div>
     </body>
-</html>ml…]()
+</html>
