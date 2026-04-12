@@ -1,0 +1,70 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(69, 138, 89);
+  color: #333;
+  padding: 2px;
+}
+  section {
+  margin: 20px 150px;
+  padding: 20px;
+  background: rgb(242, 244, 226);
+  }
+
+a {
+    padding: 26px;
+}
+
+.card {
+  border: 1px solid #000000;
+}
+
+img {
+  max-width: 50%;
+}
+
+h1 {
+  color: rgb(64, 66, 45);
+}
+
+p {
+  font-size: 13pt;
+word-spacing: 1px;
+text-indent: 15px;
+line-height: 21px;
+}
+
+button {
+  margin: 30px 1px;
+  width: 50%;
+  padding: 12px;
+  text-align: center;
+  border: 1px black;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: rgb(135, 185, 139);
+  transition: background-color 0,3s ease;
+  color: rgb(244, 245, 244);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover {
+  background-color: rgb(70, 160, 131);
+  color: #fcfcfc;
+}
+
+.infor {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  width: 30%;
+  padding: 10px;
+  text-align: center;
+  border: 1px black;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: rgb(135, 185, 139);
+  transition: background-color 0,3s ease;
+  color: rgb(244, 245, 244);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}

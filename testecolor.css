@@ -1,0 +1,70 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(55, 34, 34);
+  color: #333;
+  padding: 2px;
+}
+  section {
+  margin: 20px;
+  padding: 20px;
+  background: #f2e6db;
+  }
+
+a {
+    padding: 26px;
+}
+
+img {
+  max-width: 50%;
+}
+
+h1 {
+  color:  #df5dab;
+}
+
+p {
+  font-size: 13pt;
+word-spacing: 1px;
+text-indent: 15px;
+line-height: 21px;
+}
+
+button {
+ margin: 30px 1px;
+  width: 30%;
+  padding: 12px;
+  text-align: center;
+  border: 1px black;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: rgb(135, 185, 139);
+  transition: background-color 0,3s ease;
+  color: rgb(244, 245, 244);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover {
+  background-color: rgb(224, 225, 219);
+  color: #000000;
+}
+
+.infor {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.casa {
+  margin: 20px;
+}
+
+input {
+  width: 30%;
+  padding: 10px;
+  text-align: center;
+  border: 1px black;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: rgb(135, 185, 139);
+  transition: background-color 0,3s ease;
+  color: rgb(244, 245, 244);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}

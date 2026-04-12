@@ -1,0 +1,32 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #3a7bd5;
+  }
+
+  section {
+  margin: 20px;
+  padding: 40px;
+  background-color: rgb(255, 241, 223);
+  }
+
+img {
+  max-width:50%;
+}
+
+h1 {
+   color: #3a7bd5;
+}
+
+button {
+ margin: 0px 22px 1px;
+ width: 120px;
+  padding: 20px;
+  text-align: center;
+  border: 1px black;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #ffffff;;
+  transition: background-color 0,3s ease;
+  color:#3a7bd5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
